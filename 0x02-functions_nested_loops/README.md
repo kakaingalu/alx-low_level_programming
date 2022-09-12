@@ -22,4 +22,14 @@ file 9-times_table.c -  prints the 9 times table, starting with 0.
 
 file 10-add.c - adds two integers and returns the result.
 
-file 11-print_to_98.c - prints all natural numbers from n to 98, followed by a new line. 
+file 11-print_to_98.c - prints all natural numbers from n to 98, followed by a new line.
+
+file 100-times_table.c - prints the n times table, starting with 0. 
+
+file 101-natural.c - computes and prints the sum of all the multiples of 3 or 5 below 1024.
+
+file 102-fibonacci.c - prints the first 50 Fibonacci numbers, starting with 1 and 2.
+
+file 103-fibonacci.c - finds and prints the sum of the even-valued terms.
+
+file 104-fibonacci.c - prints the first 98 Fibonacci numbers, starting with 1 and 2.
