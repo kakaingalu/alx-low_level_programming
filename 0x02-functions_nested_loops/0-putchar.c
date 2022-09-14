@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - program that prints _putchar.
+ * main - program that prints _putchar
  *
  * Return: int
  */
@@ -13,7 +13,7 @@ int main(void)
 
 	while (n < 9)
 	{
-		_putchar(str_alx);
+		_putchar(str_alx[n]);
 		n += 1;
 	}
 	_putchar('\n');
