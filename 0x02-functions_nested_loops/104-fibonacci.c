@@ -23,7 +23,7 @@ int main(void)
 	i = i / 1000;
 	n = j % 1000;
 	j = j / 1000;
-	while (count <= 100)
+	while (count <= 98)
 	{
 		carry = (m + n) / 1000;
 		p = (m + n) - carry * 1000;
@@ -36,7 +36,7 @@ int main(void)
 			printf("%lu%lu", k, p);
 		else
 			printf("%lu0%lu", k, p);
-		if (count != 100)
+		if (count != 98)
 			printf(", ");
 		count++;
 	}
