@@ -1,21 +1,19 @@
 #include "main.h"
-
 /**
- * main - program that prints _putchar
+ * main - Entry point
  *
- * Return: int
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
-	int n = 0;
-	char str_alx[9] = "_putchar";
+	char *sh = "_putchar";
 
-	while (n < 9)
+	while (*sh)
 	{
-		_putchar(str_alx[n]);
-		n += 1;
+		_putchar(*sh);
+		sh++;
 	}
 	_putchar('\n');
+
 	return (0);
 }
