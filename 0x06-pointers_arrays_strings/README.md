@@ -1,10 +1,27 @@
-**0x06. C - More pointers, arrays and strings**        
+**0x06. C - More pointers, arrays and strings** 
 
-**TASK 0** - 0-strcat.c Write a function that concatenates two strings.
-	1. **Prototype**: char *_strcat(char *dest,char *src);       ****
-	2. _strcat function -*** appends the src string to the dest string,		 overwriting the terminating null byte (\0) at the end of dest, and then	 adds a terminating null byte.
-	3. **Return** - returns a pointer to the resulting string dest.			FYI: The standard library provides a similar function: strcat .Run man 		strcat to learn more.
-**TASK 1** - 1-strncat.c Write a function that concatenates two strings.
-	1. **Prototype**: char *_strncat(char *dest, char *src, int n);
-	2. ****_strncat*** -  
- 
+File: 0-strcat.c - concatenates two strings.
+
+File: 1-strncat.c -concatenates two strings.
+
+File: 2-strncpy.c - copies a string.
+
+File: 3-strcmp.c - compares two strings.
+
+File: 4-rev_array.c - reverses the content of an array of integers.
+
+File: 5-string_toupper.c -  changes all lowercase letters of a string to uppercase.
+
+File: 6-cap_string.c - capitalizes all words of a string.
+
+File: 7-leet.c - encodes a string into 1337.
+
+File: 100-rot13.c - encodes a string using rot13.
+
+File: 101-print_number.c - prints an integer.
+
+File: 102-magic.c - prints a[2] = 98.
+
+File: 103-infinite_add.c -  adds two numbers.
+
+File: 104-print_buffer.c - prints a buffer.       
