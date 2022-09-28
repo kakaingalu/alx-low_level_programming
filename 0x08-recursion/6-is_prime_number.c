@@ -21,7 +21,7 @@ int prime_checker(int a, int b)
 	return (prime_checker(a, b + 1));
 }
 /**
- * is_prime_number - returns 1 if the input integers is a prime number, otherwise return 0.
+ * is_prime_number - returns 1 if the input integers is a prime number, else 0.
  * @n: the character to return.
  *
  * Return: int.
