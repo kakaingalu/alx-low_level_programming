@@ -13,11 +13,10 @@ int _string_counter(char *a, int l)
 }
 
 /**
- * _cmp - compares string and reversed string.
- *
+ * _cmp - compares string and reversed string.*
  * @a: string.
  * @l: length.
- * 
+ *
  * Return: int.
  */
 int _cmp(char *a, int l)
@@ -32,7 +31,6 @@ int _cmp(char *a, int l)
 	}
 	return (_cmp(a + 1, l - 2));
 }
-
 /**
  * is_palindrome - say if a string is palindrome or not.
  * @s: string to compare.

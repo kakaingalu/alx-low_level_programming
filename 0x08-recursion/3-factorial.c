@@ -2,13 +2,13 @@
 
 /**
  * factorial - returns the factorial of n.
- * @n: the character to give factorial.
+ * @n: the ineger to give factorial.
  *
- * Return int.
+ * Return: int.
  */
 int factorial(int n)
 {
-	if (n == 0 || n ==1)
+	if (n == 0 || n == 1)
 	{
 		return (1);
 	}

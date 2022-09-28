@@ -18,9 +18,8 @@ int prime_checker(int a, int b)
 	{
 		return (0);
 	}
-	return (prime_checker(a, b +1));
+	return (prime_checker(a, b + 1));
 }
-
 /**
  * is_prime_number - returns 1 if the input integers is a prime number, otherwise return 0.
  * @n: the character to return.
@@ -30,4 +29,4 @@ int prime_checker(int a, int b)
 int is_prime_number(int n)
 {
 	return (n <= 1 ? 0 : prime_checker(n, 2));
-}	
+}
