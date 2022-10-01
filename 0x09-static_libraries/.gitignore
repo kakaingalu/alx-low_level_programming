@@ -1,2 +1,5 @@
 _putchar.c
 _putchar.o
+*.c
+!main.c
+*.o
