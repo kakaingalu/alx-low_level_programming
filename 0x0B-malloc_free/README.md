@@ -4,6 +4,8 @@
 An introduction to malloc memory allocation and free memory deallocation in Dynamic memory allocation.
 
 # Table of contents
+Directories | Description
+------------|------------
 [0-create_array.c](./0-create_array.c) | Write a function that creates an array of chars, and initializes it with a specific char.
 [1-strdup.c](./1-strdup.c) | Write a function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.
 [2-str_concat.c](./2-str_concat.c) | Write a function that concatenates two strings.
