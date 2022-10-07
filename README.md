@@ -16,10 +16,11 @@ Directories | Description
 [0x06.c](./0x06) | Folkerd repository for the bypassing crackme file's security.
 [0x07-pointers_arrays_strings](./0x07-pointers_arrays_strings) | even more deeper dive into pointers arrays and strings.
 [0x08-recursion](./0x08-recursion) | Introduction to recursion.
-[0X0B-malloc_free](./0x0B-malloc_free) | Introducion to Malloc memory allocation.
+[0x0B-malloc_free](./0x0B-malloc_free) | Introducion to Malloc memory allocation.
+[0x0C-more_malloc_free](./0x0C-more_malloc_free) | Continuation of Malloc memory allocation.
+
 
 ## Student name
-
 Joseph Kakai - cohort 9
 
 email: josephngalu96@gmail.com
