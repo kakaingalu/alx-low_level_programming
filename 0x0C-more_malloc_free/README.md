@@ -15,7 +15,7 @@ Files | Description
 [101-mul.c](./101-mul.c) | Write a program that multiples two positive numbers.
 
 
-# Author
+# Student Name
 Joseph kakai.
 
 Email: josephngalu96@gmail.com
