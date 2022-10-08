@@ -12,5 +12,5 @@ Directories | Description
 # Author 
 Joseph Kakai
 
-#email:
-joseph kakai
+# Email
+josephngalu96@gmail.com
