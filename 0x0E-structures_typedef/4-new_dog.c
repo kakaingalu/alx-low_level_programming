@@ -1,13 +1,13 @@
-#include <stdlib.h>
 #include "dog.h"
+#include <stdlib.h>
 
 /**
- * new_dog - creates a new dog
- * @name: name of dog
- * @age: age of dog
- * @owner: owner of dog
+ * new_dog - creates new dog.
+ * @name: the first string of the function.
+ * @age: the float of the function
+ * @owner: the second string of the function.
  *
- * Return: pointer to new dog
+ * Return: pointer to new dog.
  */
 dog_t *new_dog(char *name, float age, char *owner)
 {
@@ -19,8 +19,7 @@ dog_t *new_dog(char *name, float age, char *owner)
 	dog = malloc(sizeof(dog_t));
 	if (dog == NULL)
 		return (NULL);
-	for (nl = 0; name[nl]; nl++)
-		;
+	for (nl = 0; name[nl]; nl++);
 	nl++;
 	dog->name = malloc(nl * sizeof(char));
 	if (dog->name == NULL)
