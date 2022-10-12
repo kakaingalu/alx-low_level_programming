@@ -18,7 +18,8 @@ Directories | Description
 [0x08-recursion](./0x08-recursion) | Introduction to recursion.
 [0x0B-malloc_free](./0x0B-malloc_free) | Introducion to Malloc memory allocation.
 [0x0C-more_malloc_free](./0x0C-more_malloc_free) | Continuation of Malloc memory allocation.
-
+[0x0E-structures_typedef](./0x0E-structures_typedef) | introduction to structures.
+[0x0D-preprocessor](./0x0D-preprocessor) | Introduction to preprocessor.
 
 ## Student name
 Joseph Kakai - cohort 9
