@@ -1,37 +1,33 @@
-#include <stdarg.h>
-#include <stdio.h>
+#include "variadic_functions.h"
 
 /**
- * print_strings - print all argument
- * @separator: item to use ot separate numbers
- * @n: number of argument to sum
- * Return: sum of all argument
+ * print_strings - prints strings
+ * @separator: separator between strings
+ * @n: number of arguments
  */
-
-
 void print_strings(const char *separator, const unsigned int n, ...)
 {
-	unsigned int i = 0;
-	char *c;
+	unsigned int i;
+	char *str;
 
+	va_list list;
 
-	va_list ap;
-
-	va_start(ap, n);
-
-	if (!separator)
-		return;
+	va_start(list, n);
 
 	for (i = 0; i < n; i++)
 	{
-		c =  va_arg(ap,  char*);
-		printf("%s%s", c == NULL ? "(nil)" : c, i != (n - 1) ? separator : "");
+		str = va_arg(list, char *);
+		if (!str)
+			str = "(nil)";
+		if (!separator)
+			printf("%s", str);
+		else if (separator && i == 0)
+			printf("%s", str);
+		else
+			printf("%s%s", separator, str);
 	}
 
+	printf("\n");
 
-
-	va_end(ap);
-	putchar('\n');
-
-
+	va_end(list);
 }
