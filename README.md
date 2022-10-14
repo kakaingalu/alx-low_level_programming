@@ -20,6 +20,7 @@ Directories | Description
 [0x0C-more_malloc_free](./0x0C-more_malloc_free) | Continuation of Malloc memory allocation.
 [0x0E-structures_typedef](./0x0E-structures_typedef) | introduction to structures.
 [0x0D-preprocessor](./0x0D-preprocessor) | Introduction to preprocessor.
+[0x0F-function_pointers](./0x0F-function_pointers) | Introduction to Function pointers.
 
 ## Student name
 Joseph Kakai - cohort 9
