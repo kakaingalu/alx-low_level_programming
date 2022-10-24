@@ -4,7 +4,7 @@
  * list_len - returns number of elements in a linked list_t list.
  * @h: the argument to pass in the function.
  *
- * Retunr: number of elements in  linked list.
+ * Return: number of elements in  linked list.
  */
 size_t list_len(const list_t *h)
 {
@@ -12,7 +12,7 @@ size_t list_len(const list_t *h)
 
 	for (num = 0; h; num++)
 	{
-		h = h-> next;
+		h = h->next;
 	}
 	return (num);
 }
