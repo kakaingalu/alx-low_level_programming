@@ -1,11 +1,11 @@
 ##0x12 C SINGLY LINKED LISTS
 
-#Description
+##Description
 Introduction to singly linked lists
 
-#Table of contents
+##Table of contents
 Files | main files | Description
--------|-------------
+------|------------|------------
 [0-print_list.c](./0-print_list.c) | [0-main.c](./0-main.c) | Write a function that prints all the elements of a list_t list.
 [1-list_len.c](./1-list_len.c) | [1-main.c](./1-main.c) | Write a function that returns the number of elements in a linked list_t list.
 [2-add_node.c](./2-add_node.c) | [2-main.c](./2-main.c) | Write a function that adds a new node at the beginning of a list_t list.
