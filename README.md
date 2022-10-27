@@ -21,6 +21,9 @@ Directories | Description
 [0x0E-structures_typedef](./0x0E-structures_typedef) | introduction to structures.
 [0x0D-preprocessor](./0x0D-preprocessor) | Introduction to preprocessor.
 [0x0F-function_pointers](./0x0F-function_pointers) | Introduction to Function pointers.
+[0x10-variadic_functions](./0x10-variadic_functions) | Introduction to variadic functions.
+[0x12-singly_linked_lists](./0x12-singly_linked_lists) | Introduction to singly_linked_lists.
+[0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists) | More deeper into singly linked lists.
 
 ## Student name
 Joseph Kakai - cohort 9
