@@ -18,11 +18,9 @@ return (NULL);
 for (j = 0; j < index; j++)
 {
 head = head->next;
-j++;
-}
 if (head == NULL)
 return (NULL);
-
+}
 return (head);
 }
 
