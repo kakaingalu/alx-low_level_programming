@@ -1,9 +1,9 @@
-##0x12 C SINGLY LINKED LISTS
+## 0x12 C SINGLY LINKED LISTS
 
-##Description
+## Description
 Introduction to singly linked lists
 
-##Table of contents
+## Table of contents
 Files | main files | Description
 ------|------------|------------
 [0-print_list.c](./0-print_list.c) | [0-main.c](./0-main.c) | Write a function that prints all the elements of a list_t list.
@@ -14,8 +14,8 @@ Files | main files | Description
 [100-first.c](./100-first.c) | [100-main.c](./100-main.c) | Write a function that prints You're beat! and yet, you must allow,\nI bore my house upon my back!\n before the main function is executed.
 [101-hello_holberton.asm](./101-hello_holberton.asm) | No main file | Write a 64-bit program in assembly that prints Hello, Holberton, followed by a new line.
 
-##Student name
+## Student name
 Joseph Kakai
 
-#Cohort
+# Cohort
 9
