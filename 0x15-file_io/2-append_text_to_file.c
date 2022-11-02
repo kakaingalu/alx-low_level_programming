@@ -1,5 +1,3 @@
-#include "main.h"
-
 #include "holberton.h"
 #include <unistd.h>
 #include <sys/types.h>
