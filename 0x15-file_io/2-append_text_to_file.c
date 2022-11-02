@@ -1,4 +1,6 @@
 #include "main.h"
+
+#include "holberton.h"
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/stat.h>
@@ -26,7 +28,7 @@ size_t _strlen(char *str)
  *
  * Return: 1 on success and -1 on failure
  */
-2-append_text_to_file.cint append_text_to_file(const char *filename, char *text_content)
+int append_text_to_file(const char *filename, char *text_content)
 {
 	int fd;
 	ssize_t len;
@@ -42,6 +44,4 @@ size_t _strlen(char *str)
 	if (len == -1)
 		return (-1);
 	return (1);
-
 }
-
