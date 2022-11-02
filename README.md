@@ -25,6 +25,7 @@ Directories | Description
 [0x12-singly_linked_lists](./0x12-singly_linked_lists) | Introduction to singly_linked_lists.
 [0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists) | More deeper into singly linked lists.
 [0x14-bit_manipulation](./0x14-bit_manipulation) | introduction to bit manipulation.
+[0x15-file_io](./0x15-file_io) | Introduction to file i\o
 
 ## Student name
 Joseph Kakai - cohort 9
