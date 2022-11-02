@@ -1,4 +1,8 @@
 #include "main.h"
+#include <unistd.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <fcntl.h>
 
 /**
  * _strlen -finds length of a string
