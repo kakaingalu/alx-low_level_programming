@@ -1,1 +1,1 @@
-# Solutions to tasks on dynamic libraries
+FILES IN C FOR THE DYNAMIC LIBRARIES
