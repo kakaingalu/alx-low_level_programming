@@ -26,6 +26,8 @@ Directories | Description
 [0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists) | More deeper into singly linked lists.
 [0x14-bit_manipulation](./0x14-bit_manipulation) | introduction to bit manipulation.
 [0x15-file_io](./0x15-file_io) | Introduction to file i\o
+[0x17-doubly_linked_lists](./0x17-doubly_linked_lists) | Introduction to doubly linked list.
+[0x18-dynamic_libraries](./0x18-dynamic_libraries) | Intrtoduction to dynamic libraties.
 
 ## Student name
 Joseph Kakai - cohort 9
