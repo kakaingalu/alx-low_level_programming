@@ -28,7 +28,7 @@ Directories | Description
 [0x15-file_io](./0x15-file_io) | Introduction to file i\o
 [0x17-doubly_linked_lists](./0x17-doubly_linked_lists) | Introduction to doubly linked list.
 [0x18-dynamic_libraries](./0x18-dynamic_libraries) | Intrtoduction to dynamic libraties.
-
+[0x1A-hash_tables](./0x1A-hash_tables) | Introduction to harsh tables.
 ## Student name
 Joseph Kakai - cohort 9
 
