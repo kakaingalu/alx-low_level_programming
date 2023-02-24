@@ -29,6 +29,7 @@ Directories | Description
 [0x17-doubly_linked_lists](./0x17-doubly_linked_lists) | Introduction to doubly linked list.
 [0x18-dynamic_libraries](./0x18-dynamic_libraries) | Intrtoduction to dynamic libraties.
 [0x1A-hash_tables](./0x1A-hash_tables) | Introduction to harsh tables.
+[0x1C-makefiles](./0x1C-makefiles) | Introduction to makefile
 ## Student name
 Joseph Kakai - cohort 9
 
