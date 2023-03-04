@@ -1,9 +1,11 @@
 # ALX low level programming
 
+
 ## Description
 The folder contains projects for ALX
 
 ## Tables of contents
+
 Directories | Description
 ------------|------------
 [0x00-hello_world](./0x00-hello_world) | Introduction to c programming.
@@ -30,7 +32,9 @@ Directories | Description
 [0x18-dynamic_libraries](./0x18-dynamic_libraries) | Intrtoduction to dynamic libraties.
 [0x1A-hash_tables](./0x1A-hash_tables) | Introduction to harsh tables.
 [0x1C-makefiles](./0x1C-makefiles) | Introduction to makefile
+
 ## Student name
+
 Joseph Kakai - cohort 9
 
 email: josephngalu96@gmail.com
