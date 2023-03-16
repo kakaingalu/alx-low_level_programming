@@ -5,7 +5,7 @@
 The folder contains projects for ALX.
 <!--Joseph Kakai-(aka Wanton Raven)-->
 
-## Tables of contents
+# Tables of contents
 Directories | Description
 ------------|------------
 [0x00-hello_world](./0x00-hello_world) | Introduction to c programming.
